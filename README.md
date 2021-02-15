@@ -17,7 +17,7 @@
 
 ### Projects
 
-### Todo App in React Native
+### Todo App (save todos by google signin) in React Native
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8ipuAYNNg20/0.jpg)](https://www.youtube.com/watch?v=8ipuAYNNg20)
 
