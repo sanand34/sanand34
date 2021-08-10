@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+![Sanchit Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanand34&show_icons=true&theme=radical)
+
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanand34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 
@@ -13,7 +12,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 
-![Sanchit Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanand34&show_icons=true&theme=radical)
 
 ### Projects
 
