@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 
-<!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanand34&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+![Sanchit Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanand34&show_icons=true&theme=radical)
 
 ### Projects
 
