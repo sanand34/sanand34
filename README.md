@@ -4,13 +4,7 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanand34&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Technologies
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanand34&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projects
